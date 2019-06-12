@@ -43,7 +43,7 @@ class ButtonCounter extends React.Component {
                     </tr>
                     <tr>
                         <td className="well" style={styles}><h1> {this.state.count}</h1></td>
-                        <td className="well"><h1> {this.state.adder} hello</h1></td>
+                        <td className="well"><h1> {this.state.adder} i am making a change</h1></td>
                     </tr>
                 </table>
 
